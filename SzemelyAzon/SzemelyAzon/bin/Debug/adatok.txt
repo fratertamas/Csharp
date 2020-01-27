@@ -1,0 +1,12 @@
+﻿Szemelyi azonosito;Név;Nem;Születési dátum; Állampolgárság; Irányítószám; Település; Közterület adatai
+79505150016;Alsódorozsmai Tivadar;1895-05-15;Férfi;Nem magyar;1238;Budapest;Kiss Gömb utca 10.
+69004200010;Martinovics Irén;1990-04-20;Nő;Nem magyar;1221;Budapest;Anna utca 8.
+18502010014;Teszt Elek;1985-02-01;Férfi;Magyar;4400;Nyíregyháza;Park utca 10.
+19004200025;Kiss Pál Tamás;1990-04-20;Férfi;Magyar;1225;Budapest;Tenkes utca 5.
+79505150025;Gipsz Jakab;1895-05-15;Férfi;Nem magyar;1238;Budapest;Kiss Gömb utca 10.
+79505150034;Gipsz Jakab;1895-05-15;Férfi;Nem magyar;1238;Budapest;Kiss Gömb utca 10
+18502010023;Próba Géza;1985-02-01;Férfi;Magyar;4400;Nyíregyháza;Park utca 10.
+79101010016;Csík Attila;1891-01-01;Férfi;Nem magyar;1112;Budapest;Etele út 10/B.
+27307120012;Kiss Virág;1973-07-12;Nő;Magyar;1225;Budapest;Tenkes utca 4.
+17507180015;Pataki Zoltán;1975-07-18;Férfi;Magyar;1223;Budapest;Művelődés utca 11.
+16002040016;Viola Krisztián;1960-02-04;Férfi;Magyar;1222;Budapest;Park utca 1.

@@ -1,0 +1,10 @@
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\bin\Debug\SzemelyAzon.exe.config
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\bin\Debug\SzemelyAzon.exe
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\bin\Debug\SzemelyAzon.pdb
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.csprojAssemblyReference.cache
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.Form1.resources
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.Properties.Resources.resources
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.csproj.GenerateResource.cache
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.csproj.CoreCompileInputs.cache
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.exe
+C:\Users\Halacska-NB4\source\repos\SzemelyAzon\SzemelyAzon\obj\Debug\SzemelyAzon.pdb
